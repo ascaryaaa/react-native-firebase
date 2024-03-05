@@ -9,13 +9,21 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^19.0.0",
+    "@react-native-firebase/auth": "^19.0.0",
+    "@react-native-firebase/crashlytics": "^19.0.0",
     "expo": "~50.0.8",
+    "expo-build-properties": "~0.11.1",
     "expo-status-bar": "~1.11.1",
+    "firebase": "^10.8.1",
     "react": "18.2.0",
     "react-native": "0.73.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
